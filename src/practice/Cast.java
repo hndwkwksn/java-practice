@@ -3,7 +3,7 @@ package practice;
 public class Cast {
 
 	public static void main(String[] args) {
-		byte byteMaxValue = Byte.MIN_VALUE;
+		byte byteMaxValue = Byte.MAX_VALUE;
 		short shortMaxValue = Short.MAX_VALUE;
 		int intMaxValue = Integer.MAX_VALUE;
 
