@@ -1,5 +1,7 @@
 package practice;
 
+import practice.human.Human02;
+
 public class ClassMethod02 {
 
 	public static void main(String[] args) {
